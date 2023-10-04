@@ -1,2 +1,2 @@
 # delta-demo2
-This is Delta demo.
+This is Delta demo!
